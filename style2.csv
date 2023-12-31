@@ -1,0 +1,159 @@
+﻿settings,الاختبار النهائي,,45,minutes,,0,60,40,,single_question,rand,,200
+question,سؤال 1:,<p><br data-mce-bogus=1></p>,single_choice,2.5,1,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,كل ما سبق صحيح,text,1,0,,4,
+question,سؤال 2:,<p><br data-mce-bogus=1></p>,single_choice,2.5,2,1,0
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,كل ما سبق خاطئ,text,0,0,,4,
+question,سؤال 3:,<p><br data-mce-bogus=1></p>,single_choice,2.5,3,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 4:,<p><br data-mce-bogus=1></p>,single_choice,2.5,4,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 5:,<p><br data-mce-bogus=1></p>,single_choice,2.5,5,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,(1+2),text,1,0,,4,
+question,سؤال 6:,<p><br data-mce-bogus=1></p>,single_choice,2.5,6,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 7:,<p><br data-mce-bogus=1></p>,single_choice,2.5,7,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 8:,<p><br data-mce-bogus=1></p>,single_choice,2.5,8,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 9:,<p><br data-mce-bogus=1></p>,single_choice,2.5,9,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,جواب,text,0,0,,4,
+question,سؤال 10:,<p><br data-mce-bogus=1></p>,single_choice,2.5,10,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,1,0,,2,
+question,سؤال 11:,<p><br data-mce-bogus=1></p>,single_choice,2.5,11,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,1,0,,2,
+question,سؤال 12:,<p><br data-mce-bogus=1></p>,single_choice,2.5,12,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 13:,<p><br data-mce-bogus=1></p>,single_choice,2.5,13,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,كل ما سبق صحيح,text,1,0,,4,
+question,سؤال 14:,<p><br data-mce-bogus=1></p>,single_choice,2.5,14,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 15:,<p><br data-mce-bogus=1></p>,single_choice,2.5,15,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+question,سؤال 16:,<p><br data-mce-bogus=1></p>,single_choice,2.5,16,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,كل ما سبق صحيح,text,1,0,,4,
+question,سؤال 17:,<p><br data-mce-bogus=1></p>,single_choice,2.5,17,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,1+2,text,1,0,,3,
+answer,ليس أيا مما سبق,text,0,0,,4,
+question,سؤال 18:,<p><br data-mce-bogus=1></p>,single_choice,2.5,18,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 19:,<p><br data-mce-bogus=1></p>,single_choice,2.5,19,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,كل ما سبق صحيح,text,1,0,,4,
+question,سؤال 20:,<p><br data-mce-bogus=1></p>,single_choice,2.5,20,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 21:,<p><br data-mce-bogus=1></p>,single_choice,2.5,21,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+question,سؤال 22:,<p><br data-mce-bogus=1></p>,single_choice,2.5,22,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,جواب,text,1,0,,4,
+question,سؤال 23:,<p><br data-mce-bogus=1></p>,single_choice,2.5,23,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 24:,<p><br data-mce-bogus=1></p>,single_choice,2.5,24,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 25:,<p><br data-mce-bogus=1></p>,single_choice,2.5,25,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,1,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 26:,<p><br data-mce-bogus=1></p>,single_choice,2.5,26,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 27:,<p><br data-mce-bogus=1></p>,single_choice,2.5,27,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+question,سؤال 28:,<p><br data-mce-bogus=1></p>,single_choice,2.5,28,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,1,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 29:,<p><br data-mce-bogus=1></p>,single_choice,2.5,29,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,(1 + 2),text,1,0,,4,
+question,سؤال 30:,<p><br data-mce-bogus=1></p>,single_choice,2.5,30,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+question,سؤال 31:,<p><br data-mce-bogus=1></p>,single_choice,2.5,31,1,0
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,ليس أيّاً مما سبق,text,0,0,,4,
+question,سؤال 32:,<p><br data-mce-bogus=1></p>,single_choice,2.5,32,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 33:,<p><br data-mce-bogus=1></p>,single_choice,2.5,33,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,كل ما سبق صحيح,text,1,0,,3,
+question,سؤال 34:,<p><br data-mce-bogus=1></p>,single_choice,2.5,34,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,1,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 35:,<p><br data-mce-bogus=1></p>,single_choice,2.5,35,1,0
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+answer,كل ما سبق,text,1,0,,4,
+question,سؤال 36:,<p><br data-mce-bogus=1></p>,single_choice,2.5,36,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
+question,سؤال 37:,<p><br data-mce-bogus=1></p>,single_choice,2.5,37,1,1
+answer,جواب,text,1,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,0,0,,3,
+question,سؤال 38:,<p><br data-mce-bogus=1></p>,single_choice,2.5,38,1,1
+answer,جواب,text,0,0,,1,
+answer,جواب,text,0,0,,2,
+answer,جواب,text,1,0,,3,
